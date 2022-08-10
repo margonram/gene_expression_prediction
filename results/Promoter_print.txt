@@ -1,0 +1,14 @@
+Linear Regression 
+
+272 samples
+  4 predictor
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 246, 245, 245, 245, 244, 245, ... 
+Resampling results:
+
+  RMSE      Rsquared   MAE     
+  2.199351  0.4915711  1.605074
+
+Tuning parameter 'intercept' was held constant at a value of TRUE

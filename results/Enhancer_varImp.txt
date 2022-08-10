@@ -1,0 +1,7 @@
+lm variable importance
+
+         Overall
+H3K27me3 11.9091
+H3K27ac   0.9103
+H3K36me3  0.9056
+H3K4me3   0.8503
